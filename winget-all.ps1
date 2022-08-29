@@ -34,3 +34,4 @@ winget install -e --id Philips.HueSync;
 winget install -e --id Mozilla.Firefox;
 winget install -e --id Ubisoft.Connect
 winget install -e --id DeepL.DeepL
+winget install -e --id Spotify.Spotify
