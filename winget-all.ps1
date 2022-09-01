@@ -1,3 +1,5 @@
+Echo Start installing all programs via winget
+
 winget install -e --id Microsoft.VisualStudioCode;
 winget install -e --id Discord.Discord;
 winget install -e --id Docker.DockerDesktop;
@@ -35,3 +37,5 @@ winget install -e --id Mozilla.Firefox;
 winget install -e --id Ubisoft.Connect
 winget install -e --id DeepL.DeepL
 winget install -e --id Spotify.Spotify
+
+Echo all programs installed
