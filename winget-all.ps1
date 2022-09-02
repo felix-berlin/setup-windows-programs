@@ -15,8 +15,8 @@ winget install -e --id RealVNC.VNCViewer;
 winget install -e --id Philips.HueSync;
 winget install -e --id DeepL.DeepL;
 winget install -e --id Spotify.Spotify;
-winget install -e --id=IDRIX.VeraCrypt;
-winget install -e --id=VideoLAN.VLC
+winget install -e --id IDRIX.VeraCrypt;
+winget install -e --id VideoLAN.VLC;
 
 Echo Install browsers
 winget install -e --id Mozilla.Firefox;
@@ -30,7 +30,7 @@ winget install -e --id EpicGames.EpicGamesLauncher;
 winget install -e --id Nvidia.GeForceExperience;
 winget install -e --id Valve.Steam;
 
-Echo Install Dev programs
+Echo Install dev programs
 winget install -e --id HeidiSQL.HeidiSQL;
 winget install -e --id PuTTY.PuTTY;
 winget install -e --id GitHub.cli;
