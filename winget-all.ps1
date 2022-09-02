@@ -34,8 +34,9 @@ winget install -e --id RealVNC.VNCViewer;
 winget install -e --id PuTTY.PuTTY;
 winget install -e --id Philips.HueSync;
 winget install -e --id Mozilla.Firefox;
-winget install -e --id Ubisoft.Connect
-winget install -e --id DeepL.DeepL
-winget install -e --id Spotify.Spotify
+winget install -e --id Ubisoft.Connect;
+winget install -e --id DeepL.DeepL;
+winget install -e --id Spotify.Spotify;
+winget install -e --id HeidiSQL.HeidiSQL;
 
 Echo all programs installed
