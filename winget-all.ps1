@@ -1,12 +1,9 @@
 Echo Start installing all programs via winget
 
-winget install -e --id Discord.Discord;
-winget install -e --id OpenWhisperSystems.Signal;
+
 winget install -e --id dev47apps.DroidCam;
 winget install -e --id Figma.Figma;
 winget install -e --id Foxit.FoxitReader;
-winget install -e --id Mozilla.Thunderbird;
-winget install -e --id Telegram.TelegramDesktop;
 winget install -e --id KDE.Kdenlive;
 winget install -e --id Microsoft.PowerToys;
 winget install -e --id KeePassXCTeam.KeePassXC;
@@ -18,6 +15,12 @@ winget install -e --id Spotify.Spotify;
 winget install -e --id IDRIX.VeraCrypt;
 winget install -e --id VideoLAN.VLC;
 winget install -e --id TheDocumentFoundation.LibreOffice
+
+Echo install communication software
+winget install -e --id Discord.Discord;
+winget install -e --id OpenWhisperSystems.Signal;
+winget install -e --id Telegram.TelegramDesktop;
+winget install -e --id Mozilla.Thunderbird;
 
 Echo Install browsers
 winget install -e --id Mozilla.Firefox;
