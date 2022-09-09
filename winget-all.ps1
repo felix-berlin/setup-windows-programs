@@ -17,6 +17,7 @@ winget install -e --id DeepL.DeepL;
 winget install -e --id Spotify.Spotify;
 winget install -e --id IDRIX.VeraCrypt;
 winget install -e --id VideoLAN.VLC;
+winget install -e --id TheDocumentFoundation.LibreOffice
 
 Echo Install browsers
 winget install -e --id Mozilla.Firefox;
