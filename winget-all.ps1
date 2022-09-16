@@ -14,7 +14,8 @@ winget install -e --id DeepL.DeepL;
 winget install -e --id Spotify.Spotify;
 winget install -e --id IDRIX.VeraCrypt;
 winget install -e --id VideoLAN.VLC;
-winget install -e --id TheDocumentFoundation.LibreOffice
+winget install -e --id TheDocumentFoundation.LibreOffice;
+winget install -e --id Logitech.Options
 
 Echo install communication software
 winget install -e --id Discord.Discord;
@@ -33,6 +34,7 @@ winget install -e --id Ubisoft.Connect;
 winget install -e --id EpicGames.EpicGamesLauncher;
 winget install -e --id Nvidia.GeForceExperience;
 winget install -e --id Valve.Steam;
+winget install -e --id Logitech.GHUB;
 
 Echo Install dev programs
 winget install -e --id HeidiSQL.HeidiSQL;
