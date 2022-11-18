@@ -1,6 +1,5 @@
 Echo Start installing all programs via winget
 
-
 winget install -e --id dev47apps.DroidCam;
 winget install -e --id Figma.Figma;
 winget install -e --id Foxit.FoxitReader;
@@ -17,6 +16,7 @@ winget install -e --id VideoLAN.VLC;
 winget install -e --id TheDocumentFoundation.LibreOffice;
 winget install -e --id Logitech.Options;
 winget install -e --id XnSoft.XnViewMP;
+winget install -e --id Governikus.AusweisApp2;
 
 Echo install communication software
 winget install -e --id Discord.Discord;
