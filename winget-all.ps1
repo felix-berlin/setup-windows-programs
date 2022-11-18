@@ -1,7 +1,6 @@
 Echo Start installing all programs via winget
 
 winget install -e --id dev47apps.DroidCam;
-winget install -e --id Figma.Figma;
 winget install -e --id Foxit.FoxitReader;
 winget install -e --id KDE.Kdenlive;
 winget install -e --id Microsoft.PowerToys;
