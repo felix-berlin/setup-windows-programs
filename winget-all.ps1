@@ -13,7 +13,6 @@ winget install -e --id Spotify.Spotify;
 winget install -e --id IDRIX.VeraCrypt;
 winget install -e --id VideoLAN.VLC;
 winget install -e --id TheDocumentFoundation.LibreOffice;
-winget install -e --id Logitech.Options;
 winget install -e --id XnSoft.XnViewMP;
 winget install -e --id Governikus.AusweisApp2;
 
