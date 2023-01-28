@@ -15,6 +15,7 @@ winget install -e --id VideoLAN.VLC;
 winget install -e --id TheDocumentFoundation.LibreOffice;
 winget install -e --id XnSoft.XnViewMP;
 winget install -e --id Governikus.AusweisApp2;
+winget install -e --id 7zip.7zip
 
 Echo install communication software
 winget install -e --id Discord.Discord;
@@ -26,7 +27,7 @@ Echo Install browsers
 winget install -e --id Mozilla.Firefox;
 winget install -e --id Opera.Opera;
 winget install -e --id Google.Chrome;
-winget install -e --id BraveSoftware.BraveBrowser;
+winget install -e --id Brave.Brave;
 
 Echo Install gaming software
 winget install -e --id Ubisoft.Connect;
